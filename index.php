@@ -9,7 +9,10 @@
     <h1>HEllow World</h1>
     <p>Lorem ipsum dolor sit
          amet consectetur, adipisicing elit. Dolore, at, molestias beatae consequatur dolorem culpa ipsam quibusdam doloribus ipsa libero deleniti consectetur ratione totam nisi, voluptas laboriosam magnam magni sed iure error. Optio animi dolores minima. Cupiditate modi consectetur aperiam suscipit impedit at nesciunt sequi. Accusantium adipisci minima quos saepe.
-
-    </p>
+</p>
+<ul>
+    <li>makan</li>
+    <li>tidur</li>
+</ul>
 </body>
 </html>
